@@ -1,0 +1,41 @@
+{
+  "ads": [
+    {
+      "ad_name": "SuperSalahTracker",
+
+      "ad_url": "https://github.com/Zaim-2010/zaim/releases/download/ads/images.mp4",
+
+      "click_url": "https://zaimzafarshafiq.free.nf/",
+
+      "target": {
+        "country": ["AF", "IR"],
+        "language": ["fa", "ps"],
+        "gender": ["male"],
+        "age_range": [28, 32],
+        "relationship": ["single"],
+        "economic_segment": ["middle", "high"]
+      },
+
+      "uniqueView": true
+    },
+
+    {
+      "ad_name": "AdRequest",
+
+      "ad_url": "https://github.com/Zaim-2010/zaim/releases/download/ads/images2.mp4",
+
+      "click_url": "https://stow001.koseg.com/",
+
+      "target": {
+        "country": ["AF", "IR"],
+        "language": ["All"],
+        "gender": ["All"],
+        "age_range": [-1, -1],
+        "relationship": ["All"],
+        "economic_segment": ["All"]
+      },
+
+      "uniqueView": false
+    }
+  ]
+}
